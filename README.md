@@ -1,11 +1,16 @@
 ![Adrijan](9.gif)![Python](giphy.gif)
 
 
-![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)](https://www.python.org/downloads/)
+![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
+
+
+
 
 ### Hi there 👋
 
-![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)
+[![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)](https://www.python.org/downloads/)
+
+
 ** I’m currently working on Python | PySimpleGUI projects.**
 
 
