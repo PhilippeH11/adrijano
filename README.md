@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-[![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)
+![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)
 ** I’m currently working on Python | PySimpleGUI projects.**
 
 
