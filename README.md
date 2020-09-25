@@ -1,6 +1,7 @@
+![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
 
 
-![Adrijan](9.gif)![Python](giphy.gif)
+                                                     ![Adrijan](9.gif)![Python](giphy.gif)
 
 
 
