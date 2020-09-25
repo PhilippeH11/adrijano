@@ -1,6 +1,6 @@
 
 
-![Adrijan](9.gif)![Python](gihpy.gif)
+![Adrijan](9.gif)![Python](giphy.gif)
 
 
 
