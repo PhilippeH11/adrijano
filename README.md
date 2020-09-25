@@ -1,4 +1,17 @@
+
+
+![Adrijan](9.gif)![Python](gihpy.gif)
+
+
+
+
+
 ### Hi there 👋
+
+
+
+** I’m currently working on Python | PySimpleGUI projects.**
+
 
 <!--
 **adrijano/adrijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
