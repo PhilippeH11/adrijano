@@ -3,22 +3,18 @@
 
 ![Adrijan](ten.gif)
 
-
-![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
-
-
-
- 
-
-[![Python](https://img.shields.io/pypi/pyversions/py)](https://www.python.org/downloads/)  [![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.29.0-blue)](https://pysimplegui.readthedocs.io/en/latest/)  [![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)  [![](https://komarev.com/ghpvc/?username=adrijano)](https://github.com/adrijano)
-
 ### Hi there 👋
+
+
+[![Python](https://img.shields.io/pypi/pyversions/py)](https://www.python.org/downloads/)  [![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.29.0-blue)](https://pysimplegui.readthedocs.io/en/latest/)  [![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)  [![](https://komarev.com/ghpvc/?username=adrijano)](https://github.com/adrijano)  [![myprojects](https://img.shields.io/badge/my%20projects-available-blue)](https://github.com/adrijano?tab=repositories)
+
 
 **I’m currently working on Python | PySimpleGUI projects.**
 
 🤔 I’m looking for help with some ideas
 
-
+### My github stats
+![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
 <!--
 **adrijano/adrijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
