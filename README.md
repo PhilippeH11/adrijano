@@ -8,15 +8,15 @@
 
 
 
- 👋
+ 
 
 [![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)](https://www.python.org/downloads/)
 
-### Hi there
+### Hi there 👋
 
-** I’m currently working on Python | PySimpleGUI projects.**
+**I’m currently working on Python | PySimpleGUI projects.**
 
-
+**🤔 I’m looking for help with some ideas**
 <!--
 **adrijano/adrijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
