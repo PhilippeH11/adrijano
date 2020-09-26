@@ -10,7 +10,7 @@
 
  
 
-[![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)](https://www.python.org/downloads/)[![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.29.0-blue/)](https://pysimplegui.readthedocs.io/en/latest/)[![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)
+[![Python](https://img.shields.io/pypi/pyversions/PySimpleGUI?style=plastic)](https://www.python.org/downloads/)  [![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.29.0-blue/)](https://pysimplegui.readthedocs.io/en/latest/)  [![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)
 
 ### Hi there 👋
 
