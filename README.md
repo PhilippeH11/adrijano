@@ -16,7 +16,10 @@
 
 **I’m currently working on Python | PySimpleGUI projects.**
 
-**🤔 I’m looking for help with some ideas**
+🤔 I’m looking for help with some ideas
+
+[![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)
+
 <!--
 **adrijano/adrijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
