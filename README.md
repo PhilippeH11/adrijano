@@ -17,7 +17,7 @@
 
 def username():
 
-    return ('Name: \n Adrijan Petek\n')
+    return ('Name: \n Adrijan\n')
 
 def developer():
 
