@@ -16,21 +16,27 @@
 🤔 I’m looking for help with some ideas.
 
 def username():
+
     return ('Name: \n Adrijan Petek\n')
 
 def developer():
+
     return ('Profession: \n Python developer\n')
 
 def from_c():
+
     return ('Country: \n Slovenia\n')
 
 def gith():
+
     return('Github: \n https://github.com/adrijano\n')
 
 def resp():
+
     return ('Github respitories: \n https://github.com/adrijano?tab=repositories')
 
 def main():
+
     name = username()
     python_d = developer()
     country = from_c()
