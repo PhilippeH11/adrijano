@@ -7,6 +7,7 @@
 
 
 [![Python](https://img.shields.io/pypi/pyversions/py)](https://www.python.org/downloads/)  [![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-4.29.0-blue)](https://pysimplegui.readthedocs.io/en/latest/)  [![Python](https://img.shields.io/badge/facebook-adrijan-blue)](https://www.facebook.com/adrijan.petek.750/)  [![](https://komarev.com/ghpvc/?username=adrijano)](https://github.com/adrijano)  [![myprojects](https://img.shields.io/badge/my%20projects-available-blue)](https://github.com/adrijano?tab=repositories)  [![pyinstaller](https://img.shields.io/badge/pyinstaller-3.5|4.0-blue)](https://pypi.org/project/pyinstaller/)
+
 [![PieceX](https://img.shields.io/badge/PieceX-Affiliate%20Program-green)](https://piecex.page.link/R2jQCiRCX3hMyhuZ9)
 
 
