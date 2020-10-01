@@ -53,5 +53,5 @@ def main():
 
 main()
 
-### My github stats
+### My GitHub stats
 ![Adrijan's github stats](https://github-readme-stats.vercel.app/api?username=adrijano&show_icons=true)
