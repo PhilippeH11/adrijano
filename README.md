@@ -25,7 +25,7 @@ def developer():
 
 def from_c():
 
-    return ('Country: \n Slovenia(https://en.wikipedia.org/wiki/Slovenia)\n')
+    return ('Country: \n Slovenia (https://en.wikipedia.org/wiki/Slovenia)\n')
 
 def gith():
 
